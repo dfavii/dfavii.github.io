@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dfavii.github.io/zTZ/sitemap.zTZ.gz
